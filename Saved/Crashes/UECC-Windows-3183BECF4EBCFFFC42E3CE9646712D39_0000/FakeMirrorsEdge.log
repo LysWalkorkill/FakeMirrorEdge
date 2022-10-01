@@ -1,0 +1,1475 @@
+﻿Log file open, 09/16/22 09:37:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=15588)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FakeMirrorsEdge
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:/unreal Projects 5/FakeMirrorsEdge/FakeMirrorsEdge.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.1889] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="9c4b4e2e4fe3ccf5e361d2b7e7b62588"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.361768
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-3183BECF4EBCFFFC42E3CE9646712D39
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.1889] (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: G:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.09.16-07.37.28:564][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.09.16-07.37.28:564][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.09.16-07.37.28:564][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.09.16-07.37.28:565][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.09.16-07.37.28:571][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.16-07.37.28:571][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.16-07.37.28:571][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.16-07.37.28:571][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.16-07.37.28:571][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.16-07.37.28:572][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.16-07.37.28:572][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.16-07.37.28:572][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.16-07.37.28:572][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.16-07.37.28:572][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.16-07.37.28:572][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.16-07.37.28:589][  0]LogD3D12RHI: Aftermath initialized
+[2022.09.16-07.37.28:589][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.09.16-07.37.28:820][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1070 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.09.16-07.37.28:820][  0]LogD3D12RHI: Adapter has 8088MB of dedicated video memory, 0MB of dedicated system memory, and 8171MB of shared system memory, 2 output[s]
+[2022.09.16-07.37.28:855][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.09.16-07.37.28:855][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8171MB of shared system memory, 0 output[s]
+[2022.09.16-07.37.28:855][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.09.16-07.37.28:855][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.16-07.37.28:855][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.09.16-07.37.28:855][  0]LogHAL: Display: Platform has ~ 16 GB [17135980544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.16-07.37.28:855][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.09.16-07.37.28:855][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.09.16-07.37.28:855][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.16-07.37.28:855][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.09.16-07.37.28:855][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/unreal Projects 5/FakeMirrorsEdge/Saved/Config/WindowsEditor/Editor.ini]
+[2022.09.16-07.37.28:855][  0]LogInit: Computer: DESKTOP-36KODR4
+[2022.09.16-07.37.28:855][  0]LogInit: User: romai
+[2022.09.16-07.37.28:855][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.09.16-07.37.28:855][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.16-07.37.28:855][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.09.16-07.37.28:855][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.09.16-07.37.28:855][  0]LogMemory: Process Physical Memory: 265.62 MB used, 274.70 MB peak
+[2022.09.16-07.37.28:855][  0]LogMemory: Process Virtual Memory: 209.34 MB used, 209.34 MB peak
+[2022.09.16-07.37.28:856][  0]LogMemory: Physical Memory: 9425.06 MB used,  6917.08 MB free, 16342.14 MB total
+[2022.09.16-07.37.28:856][  0]LogMemory: Virtual Memory: 13238.45 MB used,  12319.70 MB free, 25558.14 MB total
+[2022.09.16-07.37.28:856][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.09.16-07.37.28:864][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.16-07.37.28:883][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.09.16-07.37.28:883][  0]LogInit: Using OS detected language (fr-FR).
+[2022.09.16-07.37.28:883][  0]LogInit: Using OS detected locale (fr-FR).
+[2022.09.16-07.37.28:887][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so 'fr' will be used for the language.
+[2022.09.16-07.37.28:887][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2022.09.16-07.37.28:887][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2022.09.16-07.37.28:887][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2022.09.16-07.37.28:887][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2022.09.16-07.37.28:887][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2022.09.16-07.37.28:887][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2022.09.16-07.37.28:887][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2022.09.16-07.37.28:888][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.16-07.37.28:906][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.09.16-07.37.28:906][  0]LogWindowsTextInputMethodSystem:   - Français (France) - (Keyboard).
+[2022.09.16-07.37.28:906][  0]LogWindowsTextInputMethodSystem:   - Anglais (Royaume-Uni) - (Keyboard).
+[2022.09.16-07.37.28:906][  0]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2022.09.16-07.37.28:943][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.16-07.37.28:943][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.16-07.37.29:148][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.09.16-07.37.29:150][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping failed to initialize (bad0000c)
+[2022.09.16-07.37.29:150][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.09.16-07.37.29:254][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.09.16-07.37.29:254][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.09.16-07.37.29:254][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.09.16-07.37.29:254][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.09.16-07.37.29:254][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.09.16-07.37.29:254][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.09.16-07.37.29:254][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.09.16-07.37.29:254][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.09.16-07.37.29:254][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.09.16-07.37.29:254][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.09.16-07.37.29:254][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.09.16-07.37.29:254][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.09.16-07.37.29:386][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.09.16-07.37.29:400][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.09.16-07.37.29:437][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.09.16-07.37.29:462][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.09.16-07.37.29:462][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.09.16-07.37.29:530][  0]LogD3D12RHI: Warning: Failed to query support for 64 bit atomics
+[2022.09.16-07.37.29:530][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2022.09.16-07.37.29:530][  0]LogD3D12RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.16-07.37.29:530][  0]LogWindows: Attached monitors:
+[2022.09.16-07.37.29:530][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.09.16-07.37.29:530][  0]LogWindows:     resolution: 1920x1080, work area: (1920, 141) -> (3840, 1181), device: '\\.\DISPLAY2'
+[2022.09.16-07.37.29:530][  0]LogWindows: Found 2 attached monitors.
+[2022.09.16-07.37.29:530][  0]LogWindows: EnumDisplayDevices:
+[2022.09.16-07.37.29:530][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.09.16-07.37.29:530][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1), name: '\\.\DISPLAY2'
+[2022.09.16-07.37.29:531][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.09.16-07.37.29:531][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.09.16-07.37.29:532][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.09.16-07.37.29:532][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2022.09.16-07.37.29:532][  0]LogD3D12RHI:   Driver Version: 512.35 (internal:30.0.15.1235, unified:512.35)
+[2022.09.16-07.37.29:532][  0]LogD3D12RHI:      Driver Date: 4-2-2022
+[2022.09.16-07.37.29:532][  0]LogRHI: Texture pool is 4611 MB (70% of 6588 MB)
+[2022.09.16-07.37.29:532][  0]LogD3D12RHI: Async texture creation enabled
+[2022.09.16-07.37.29:532][  0]LogD3D12RHI: RHI does not have support for 64 bit atomics
+[2022.09.16-07.37.29:548][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.09.16-07.37.30:749][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GTX 1070
+Installed: 512.35
+Recommended: 516.25
+[2022.09.16-07.37.30:757][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/unreal Projects 5/FakeMirrorsEdge/FakeMirrorsEdge.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/unreal Projects 5/FakeMirrorsEdge/Intermediate/TurnkeyReport_0.log" -log="D:/unreal Projects 5/FakeMirrorsEdge/Intermediate/TurnkeyLog_0.log" -project="D:/unreal Projects 5/FakeMirrorsEdge/FakeMirrorsEdge.uproject"  -platform=all'
+[2022.09.16-07.37.30:757][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""G:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/unreal Projects 5/FakeMirrorsEdge/FakeMirrorsEdge.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/unreal Projects 5/FakeMirrorsEdge/Intermediate/TurnkeyReport_0.log" -log="D:/unreal Projects 5/FakeMirrorsEdge/Intermediate/TurnkeyLog_0.log" -project="D:/unreal Projects 5/FakeMirrorsEdge/FakeMirrorsEdge.uproject"  -platform=all" ]
+[2022.09.16-07.37.30:787][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.09.16-07.37.30:797][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.09.16-07.37.30:797][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.09.16-07.37.30:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.16-07.37.30:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.16-07.37.30:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.16-07.37.30:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.16-07.37.30:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.16-07.37.30:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.16-07.37.30:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.16-07.37.30:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.16-07.37.30:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.16-07.37.30:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.16-07.37.30:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.09.16-07.37.30:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.09.16-07.37.30:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.16-07.37.30:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.16-07.37.30:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.16-07.37.30:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.09.16-07.37.30:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.16-07.37.30:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.16-07.37.30:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.09.16-07.37.30:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.09.16-07.37.30:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.09.16-07.37.30:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.16-07.37.30:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.16-07.37.30:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.16-07.37.30:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.09.16-07.37.30:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.16-07.37.30:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.16-07.37.30:866][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.09.16-07.37.30:877][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.16-07.37.30:881][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.09.16-07.37.30:882][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.09.16-07.37.30:882][  0]LogTargetPlatformManager:   ADPCM
+[2022.09.16-07.37.30:882][  0]LogTargetPlatformManager:   PCM
+[2022.09.16-07.37.30:885][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.09.16-07.37.30:885][  0]LogTargetPlatformManager:   BINKA
+[2022.09.16-07.37.30:885][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.09.16-07.37.30:885][  0]LogTargetPlatformManager:   OGG
+[2022.09.16-07.37.30:885][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.09.16-07.37.30:885][  0]LogTargetPlatformManager:   OPUS
+[2022.09.16-07.37.30:937][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.09.16-07.37.30:944][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.09.16-07.37.30:944][  0]LogTargetPlatformManager:   SF_METAL
+[2022.09.16-07.37.30:944][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.09.16-07.37.30:944][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.09.16-07.37.30:944][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.09.16-07.37.30:944][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.09.16-07.37.30:944][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.09.16-07.37.30:944][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.09.16-07.37.30:944][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.09.16-07.37.30:944][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.09.16-07.37.30:944][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.09.16-07.37.30:944][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.09.16-07.37.30:944][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.09.16-07.37.30:944][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.09.16-07.37.30:944][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.09.16-07.37.30:944][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.09.16-07.37.30:948][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 9009
+[2022.09.16-07.37.30:948][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.09.16-07.37.30:948][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.09.16-07.37.30:948][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.09.16-07.37.30:948][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.09.16-07.37.30:948][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.09.16-07.37.30:948][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.09.16-07.37.30:948][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.09.16-07.37.30:949][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.09.16-07.37.30:949][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/unreal Projects 5/FakeMirrorsEdge/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.16-07.37.30:949][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.16-07.37.30:949][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/unreal Projects 5/FakeMirrorsEdge/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.16-07.37.30:950][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.16-07.37.30:953][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/unreal Projects 5/FakeMirrorsEdge/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.16-07.37.30:953][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.09.16-07.37.30:953][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/unreal Projects 5/FakeMirrorsEdge/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.16-07.37.30:953][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.09.16-07.37.30:974][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.09.16-07.37.30:975][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.16-07.37.30:975][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.09.16-07.37.30:985][  0]LogDerivedDataCache: Speed tests for C:/Users/romai/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.09.16-07.37.30:985][  0]LogDerivedDataCache: Display: Performance to C:/Users/romai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=672.86MBs, RandomWriteSpeed=123.28MBs. Assigned SpeedClass 'Local'
+[2022.09.16-07.37.30:986][  0]LogDerivedDataCache: Using Local data cache path C:/Users/romai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.16-07.37.30:986][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.16-07.37.30:986][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.09.16-07.37.30:995][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.09.16-07.37.30:995][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.09.16-07.37.30:995][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (D:/unreal Projects 5/FakeMirrorsEdge/Intermediate/Shaders/WorkingDirectory/12616/).
+[2022.09.16-07.37.30:996][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/romai/AppData/Local/Temp/UnrealShaderWorkingDir/47EE38BD4608248D8C760A9C4F2C8071/'.
+[2022.09.16-07.37.30:996][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.16-07.37.30:996][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.09.16-07.37.32:625][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.16-07.37.32:626][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.16-07.37.32:672][  0]LogAssetRegistry: FAssetRegistry took 0.0134 seconds to start up
+[2022.09.16-07.37.32:679][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.09.16-07.37.32:930][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.09.16-07.37.32:930][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.09.16-07.37.33:189][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.16-07.37.33:189][  0]LogDeviceProfileManager: Active device profile: [00000B925B9B1DC0][00000B925138A000 50] WindowsEditor
+[2022.09.16-07.37.33:189][  0]LogDeviceProfileManager: Profiles: [00000B925B9B1880][00000B9251382800 50] Windows, [00000B925B9B1DC0][00000B925138A000 50] WindowsEditor, [00000B925B9B2680][00000B925345C800 50] WindowsServer, [00000B925B9B08C0][00000B9251325000 50] WindowsClient, [00000B925B9B1C00][00000B9244577800 50] IOS, [00000B925B9B2840][00000B925345A000 50] iPadAir2, [00000B925B9B4EC0][00000B925B990000 50] IPadPro, [00000B925B9B5240][00000B925B992800 50] iPadAir3, [00000B925B9B0A80][00000B925B997800 50] iPadAir4, [00000B925B9B3D40][00000B925B99A000 50] iPadMini4, [00000B925B9B4600][00000B925B99C800 50] iPadMini5, [00000B925B9B1F80][00000B9251380000 50] iPadMini6, [00000B925B9B8340][00000B925B7E2800 50] iPhone6S, [00000B925B9B86C0][00000B925B7E0000 50] iPhone7, [00000B925B9B8A40][00000B925B7E5000 50] iPodTouch7, [00000B925B9B8C00][00000B925B7EA000 50] iPhone6SPlus, [00000B925B9B8180][00000B925B7EC800 50] iPhone7Plus, [00000B925B9B6AC0][00000B925B995000 50] iPhoneSE, [00000B925B9B71C0][00000B925B7E7800 50] iPhone8, [00000B925B9B3F00][00000B925B7D0000 50] iPhone8Plus, [00000B925B9B3800][00000B925B7D5000 50] iPhoneX, [00000B925B9B7000][00000B925B7D7800 50] iPhoneXS, [00000B925B9B6900][00000B925B7DA000 50] iPhoneXSMax, [00000B925B9B1180][00000B925B7DC800 50] iPhoneXR, [00000B925B9B4D00][00000B9251327800 50] iPhone11, [00000B925B9B63C0][00000B925B9C0000 50] iPhone11Pro, [00000B925B9B0FC0][00000B925B9C5000 50] iPhone11ProMax, [00000B925B9B5B00][00000B925B9C7800 50] iPhoneSE2, [00000B925B9B55C0][00000B925B9CA000 50] iPhone12Mini, [00000B925B9B5E80][00000B925B9CC800 50] iPhone12, [00000B925B9B8880][00000B925B7D2800 50] iPhone12Pro, [00000B925B9B3B80][00000B925B9F0000 50] iPhone12ProMax, [00000B925B9B2F40][00000B925B9F5000 50] iPhone13Mini, [00000B925B9B39C0][00000B925B9F7800 50] iPhone13, [00000B925B9B6580][00000B925B9FA000 50] iPhone13Pro, [00000B925B9B5780][00000B925B9FC800 50] iPhone13ProMax, [00000B925B9B1340][00000B925B9C2800 50] iPadPro105, [00000B925B9B7A80][00000B925BA00000 50] iPadPro129, [00000B925B9B7E00][00000B925BA05000 50] iPadPro97, [00000B925B9B2BC0][00000B925BA07800 50] iPadPro2_129, [00000B925B9B24C0][00000B925BA0A000 50] iPad5, [00000B925B9B47C0][00000B925BA0C800 50] iPad6, [00000B925B9B7380][00000B925B9F2800 50] iPad7, [00000B925B9B2140][00000B925BA10000 50] iPad8, [00000B925B9B6200][00000B925BA15000 50] iPad9, [00000B925B9B2300][00000B925BA17800 50] iPadPro11, [00000B925B9B6C80][00000B925BA1A000 50] iPadPro2_11, [00000B925B9B01C0][00000B925BA1C800 50] iPadPro3_11, [00000B925B9B7540][00000B925BA02800 50] iPadPro3_129, [00000B925B9B2A00][00000B925BA30000 50] iPadPro4_129, [00000B925B9B4980][00000B925BA35000 50] iPadPro5_129, [00000B925B9B1500][00000B925BA37800 50] AppleTV, [00000B925B9B5400][00000B925BA3A000 50] AppleTV4K, [00000B925B9B6040][00000B925BA3C800 50] TVOS, [00000B925B9BA2C0][00000B925BA40000 50] Mac, [00000B925B9BA640][00000B925BA42800 50] MacEditor, [00000B925B9B5CC0][00000B925BA47800 50] MacClient, [00000B925B9B32C0][00000B925BA4A000 50] MacServer, [00000B925B9BAB80][00000B925BA12800 50] Linux, [00000B925B9B40C0][00000B925BA32800 50] LinuxEditor, [00000B925B9B9680][00000B925BA4C800 50] LinuxArm64Editor, [00000B925B9BA9C0][00000B925BA50000 50] LinuxArm64, [00000B925B9B8DC0][00000B925BA55000 50] LinuxClient, [00000B925B9B0700][00000B925BA57800 50] LinuxArm64Client, [00000B925B9B9300][00000B925BA5A000 50] LinuxServer, [00000B925B9BA480][00000B925BA5C800 50] LinuxArm64Server, [00000B925B9B6740][00000B925BA45000 50] Android, [00000B925B9B4B40][00000B925BA60000 50] Android_Preview_OpenGL, [00000B925B9B9F40][00000B925BA65000 50] Android_Preview_Vulkan, [00000B925B9B0540][00000B925BA67800 50] Android_Low, [00000B925B9B0000][00000B925BA6A000 50] Android_Mid, [00000B925B9B9D80][00000B925BA6C800 50] Android_High, [00000B925B9B16C0][00000B925BA52800 50] Android_Default, [00000B925B9B7C40][00000B925BA70000 50] Android_Adreno4xx, [00000B925B9B4280][00000B925BA75000 50] Android_Adreno5xx_Low, [00000B925B9B3480][00000B925BA77800 50] Android_Adreno5xx, [00000B925B9B4440][00000B925BA7A000 50] Android_Adreno6xx, [00000B925B9B7FC0][00000B925BA7C800 50] Android_Adreno6xx_Vulkan, [00000B925B9B9BC0][00000B925BA62800 50] Android_Adreno7xx, [00000B925B9B94C0][00000B925BA80000 50] Android_Adreno7xx_Vulkan, [00000B925B9BB440][00000B925BA85000 50] Android_Mali_T6xx, [00000B925B9B9840][00000B925BA87800 50] Android_Mali_T7xx, [00000B925B9B78C0][00000B925BA8A000 50] Android_Mali_T8xx, [00000B925B9B0380][00000B925BA8C800 50] Android_Mali_G71, [00000B925B9BB600][00000B925BA72800 50] Android_Mali_G72, [00000B925B9B2D80][00000B925BA20000 50] Android_Mali_G72_Vulkan, [00000B925B9BB980][00000B925BA25000 50] Android_Mali_G76, [00000B925B9B8500][00000B925BA27800 50] Android_Mali_G76_Vulkan, [00000B925B9BA800][00000B925BA2A000 50] Android_Mali_G77, [00000B925B9BC400][00000B925BA2C800 50] Android_Mali_G77_Vulkan, [00000B925B9B3100][00000B925BA82800 50] Android_Mali_G78, [00000B925B9B3640][00000B925BA90000 50] Android_Mali_G78_Vulkan, [00000B925B9B0E00][00000B925BA95000 50] Android_Mali_G710, [00000B925B9BC5C0][00000B925BA97800 50] Android_Mali_G710_Vulkan, [00000B925B9B9140][00000B925BA9A000 50] Android_Xclipse_920, [00000B925B9BC940][00000B925BA9C800 50] Android_Xclipse_920_Vulkan, [00000B925B9BBB40][00000B925BA22800 50] Android_Vulkan_SM5, [00000B925B9BBD00][00000B925BAA0000 50] Android_PowerVR_G6xxx, [00000B925B9BD3C0][00000B925BAA5000 50] Android_PowerVR_GT7xxx, [00000B925B9BB7C0][00000B925BAA7800 50] Android_PowerVR_GE8xxx, [00000B925B9B0C40][00000B925BAAA000 50] Android_PowerVR_GM9xxx, [00000B925B9B6E40][00000B925BAAC800 50] Android_PowerVR_GM9xxx_Vulkan, [00000B925B9BD580][00000B925BA92800 50] Android_TegraK1, [00000B925B9BC080][00000B925BAB0000 50] Android_Unknown_Vulkan, [00000B925B9BD900][00000B925BAB5000 50] Oculus_Quest, [00000B925B9BB280][00000B925BAB7800 50] Oculus_Quest2, [00000B925B9BE380][00000B925BABA000 50] HoloLens, 
+[2022.09.16-07.37.33:189][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.09.16-07.37.33:220][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.09.16-07.37.33:438][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.16-07.37.33:438][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.16-07.37.33:438][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.16-07.37.33:438][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.16-07.37.33:438][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.16-07.37.33:460][  0]LogNetVersion: FakeMirrorsEdge 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 365666955)
+[2022.09.16-07.37.33:615][  0]LogSlate: Border
+[2022.09.16-07.37.33:615][  0]LogSlate: BreadcrumbButton
+[2022.09.16-07.37.33:615][  0]LogSlate: Default
+[2022.09.16-07.37.33:615][  0]LogSlate: Icons.Save
+[2022.09.16-07.37.33:615][  0]LogSlate: Icons.Toolbar.Settings
+[2022.09.16-07.37.33:615][  0]LogSlate: ListView
+[2022.09.16-07.37.33:615][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.09.16-07.37.33:615][  0]LogSlate: SoftwareCursor_Grab
+[2022.09.16-07.37.33:615][  0]LogSlate: TableView.DarkRow
+[2022.09.16-07.37.33:615][  0]LogSlate: TableView.Row
+[2022.09.16-07.37.33:615][  0]LogSlate: TreeView
+[2022.09.16-07.37.33:836][  0]SourceControl: Source control is disabled
+[2022.09.16-07.37.33:870][  0]SourceControl: Source control is disabled
+[2022.09.16-07.37.33:870][  0]SourceControl: Source control is disabled
+[2022.09.16-07.37.34:007][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.09.16-07.37.34:007][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.09.16-07.37.34:007][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.16-07.37.34:308][  0]LogPython: Using Python 3.9.7
+[2022.09.16-07.37.35:244][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: EC0208DD451E921CCAC41CB2AE88A294 | Instance: 1EA973A547CF7D2BA2B2198552121A6E (DESKTOP-36KODR4-12616).
+[2022.09.16-07.37.35:293][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.16-07.37.35:299][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.16-07.37.35:551][  0]SourceControl: Source control is disabled
+[2022.09.16-07.37.35:555][  0]SourceControl: Source control is disabled
+[2022.09.16-07.37.35:567][  0]SourceControl: Source control is disabled
+[2022.09.16-07.37.35:577][  0]LogUProjectInfo: Found projects:
+[2022.09.16-07.37.35:914][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.16-07.37.36:007][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.16-07.37.36:033][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.16-07.37.36:033][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.16-07.37.36:153][  0]LogCollectionManager: Loaded 0 collections in 0.001007 seconds
+[2022.09.16-07.37.36:251][  0]LogFileCache: Scanning file cache for directory 'D:/unreal Projects 5/FakeMirrorsEdge/Saved/Collections/' took 0.00s
+[2022.09.16-07.37.36:251][  0]LogFileCache: Scanning file cache for directory 'D:/unreal Projects 5/FakeMirrorsEdge/Content/Developers/romai/Collections/' took 0.00s
+[2022.09.16-07.37.36:251][  0]LogFileCache: Scanning file cache for directory 'D:/unreal Projects 5/FakeMirrorsEdge/Content/Collections/' took 0.00s
+[2022.09.16-07.37.36:655][  0]LogEngine: Initializing Engine...
+[2022.09.16-07.37.36:671][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.09.16-07.37.36:672][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.09.16-07.37.36:992][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.16-07.37.36:993][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.16-07.37.37:009][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.16-07.37.37:047][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.16-07.37.37:048][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.16-07.37.37:076][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.16-07.37.37:077][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.16-07.37.37:077][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.09.16-07.37.37:078][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.16-07.37.37:078][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.16-07.37.37:078][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.16-07.37.37:078][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.16-07.37.37:078][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.16-07.37.37:078][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.16-07.37.37:078][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.16-07.37.37:078][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.16-07.37.37:078][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.16-07.37.37:078][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.16-07.37.37:078][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.16-07.37.37:078][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.16-07.37.37:078][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.16-07.37.37:086][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.16-07.37.37:136][  0]LogAudioMixer: Display: Using Audio Hardware Device Casque (2- WH-1000XM3 Stereo)
+[2022.09.16-07.37.37:137][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.16-07.37.37:139][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.16-07.37.37:139][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.16-07.37.37:139][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.09.16-07.37.37:139][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.16-07.37.37:141][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.16-07.37.37:141][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.09.16-07.37.37:141][  0]LogInit: FAudioDevice initialized.
+[2022.09.16-07.37.37:141][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.16-07.37.37:141][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.16-07.37.37:141][  0]LogInit: Texture streaming: Enabled
+[2022.09.16-07.37.37:182][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.09.16-07.37.37:194][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.16-07.37.37:281][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.09.16-07.37.37:291][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.09.16-07.37.37:291][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.09.16-07.37.39:146][  0]LogLiveCoding: Display: First instance in process group "UE_FakeMirrorsEdge_0xd25800bf", spawning console
+[2022.09.16-07.37.39:146][  0]LogLiveCoding: Display: Waiting for server
+[2022.09.16-07.37.39:146][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.09.16-07.37.39:181][  0]LogInit: Transaction tracking system initialized
+[2022.09.16-07.37.39:282][  0]BlueprintLog: New page: Editor Load
+[2022.09.16-07.37.39:541][  0]LocalizationService: Localization service is disabled
+[2022.09.16-07.37.39:602][  0]TimingProfiler: Initialize
+[2022.09.16-07.37.39:602][  0]TimingProfiler: OnSessionChanged
+[2022.09.16-07.37.39:602][  0]LoadingProfiler: Initialize
+[2022.09.16-07.37.39:602][  0]LoadingProfiler: OnSessionChanged
+[2022.09.16-07.37.39:602][  0]NetworkingProfiler: Initialize
+[2022.09.16-07.37.39:602][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.16-07.37.39:602][  0]MemoryProfiler: Initialize
+[2022.09.16-07.37.39:602][  0]MemoryProfiler: OnSessionChanged
+[2022.09.16-07.37.40:488][  0]LogFileCache: Scanning file cache for directory 'D:/unreal Projects 5/FakeMirrorsEdge/Content/' took 0.02s
+[2022.09.16-07.37.40:488][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.09.16-07.37.40:587][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.16-07.37.40:589][  0]SourceControl: Source control is disabled
+[2022.09.16-07.37.40:590][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.539
+[2022.09.16-07.37.40:590][  0]Cmd: MAP LOAD FILE="D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.16-07.37.40:590][  0]LightingResults: New page: Lighting Build
+[2022.09.16-07.37.40:599][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.16-07.37.40:599][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.16-07.37.40:599][  0]MapCheck: New page: Map Check
+[2022.09.16-07.37.40:599][  0]LightingResults: New page: Lighting Build
+[2022.09.16-07.37.40:609][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.16-07.37.40:612][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.09.16-07.37.40:759][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.09.16-07.37.40:759][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.16-07.37.40:759][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.16-07.37.40:760][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.09.16-07.37.40:763][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.16-07.37.40:775][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.09.16-07.37.40:775][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.16-07.37.40:776][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,22ms to complete.
+[2022.09.16-07.37.40:776][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.186
+[2022.09.16-07.37.40:789][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.738
+[2022.09.16-07.37.40:789][  0]LogShaderCompilers: Display: ================================================
+[2022.09.16-07.37.40:789][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.16-07.37.40:789][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.16-07.37.40:789][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.16-07.37.40:789][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.16-07.37.40:789][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.16-07.37.40:789][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.16-07.37.40:789][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.16-07.37.40:789][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.16-07.37.40:789][  0]LogShaderCompilers: Display: ================================================
+[2022.09.16-07.37.40:885][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.16-07.37.40:892][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.16-07.37.40:900][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.16-07.37.40:907][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.16-07.37.41:035][  0]LogPakFile: Display: Mounted Pak file 'G:/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.09.16-07.37.41:036][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.16-07.37.41:036][  0]LogPakFile: Display: Mounted Pak file 'G:/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.09.16-07.37.41:036][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.16-07.37.41:038][  0]LogPakFile: Display: Mounted Pak file 'G:/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.09.16-07.37.41:038][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.16-07.37.41:038][  0]LogPakFile: Display: Mounted Pak file 'G:/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.09.16-07.37.41:038][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.16-07.37.41:039][  0]LogPakFile: Display: Mounted Pak file 'G:/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.09.16-07.37.41:039][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.16-07.37.41:040][  0]LogPakFile: Display: Mounted Pak file 'G:/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.09.16-07.37.41:040][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.16-07.37.41:041][  0]LogPakFile: Display: Mounted Pak file 'G:/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.09.16-07.37.41:041][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.16-07.37.41:041][  0]LogPakFile: Display: Mounted Pak file 'G:/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.09.16-07.37.41:041][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.16-07.37.41:042][  0]LogPakFile: Display: Mounted Pak file 'G:/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.09.16-07.37.41:042][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.16-07.37.41:043][  0]LogPakFile: Display: Mounted Pak file 'G:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.09.16-07.37.41:043][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.16-07.37.41:043][  0]LogFeaturePack: Error: Error in Feature pack G:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.09.16-07.37.41:232][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.16-07.37.41:234][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.16-07.37.41:237][  0]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.16-07.37.41:238][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.16-07.37.41:274][  0]LogViewport: Scene viewport resized to 1170x902, mode Windowed.
+[2022.09.16-07.37.41:723][  0]LogStall: Startup...
+[2022.09.16-07.37.41:726][  0]LogStall: Startup complete.
+[2022.09.16-07.37.41:755][  0]LogLoad: (Engine Initialization) Total time: 14.70 seconds
+[2022.09.16-07.37.41:755][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.16-07.37.41:833][  0]LogAssetRegistry: Asset discovery search completed in 9.1626 seconds
+[2022.09.16-07.37.41:845][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.09.16-07.37.41:888][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.16-07.37.47:820][467]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.16-07.37.47:829][467]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.16-07.37.48:571][515]LogSlate: Took 0.001853 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.09.16-07.38.32:261][ 96]MapCheck: New page: Map Check
+[2022.09.16-07.38.32:280][ 96]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.16-07.38.32:288][ 96]Cmd: MAP REBUILD ALLVISIBLE
+[2022.09.16-07.38.32:289][ 96]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.09.16-07.38.32:350][ 96]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2022.09.16-07.38.32:378][ 96]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.09.16-07.38.32:378][ 96]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.09.16-07.38.32:378][ 96]LogNavigationDataBuild: Display:    Building navigation data using WITH_CHAOS.
+[2022.09.16-07.38.32:390][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.09.16-07.38.32:451][ 96]LogLevel: Display: Export Material TexCoord Scales took 0.061 seconds.
+[2022.09.16-07.38.32:455][ 96]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2022.09.16-07.38.32:463][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.09.16-07.38.32:467][ 96]LightingResults: New page: Lighting Build - 16 sept. 2022 à 11:38:32
+[2022.09.16-07.38.32:510][ 96]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.09.16-07.38.32:589][ 96]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.09.16-07.38.32:607][ 96]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.09.16-07.38.33:127][ 96]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.09.16-07.38.33:127][ 96]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12616
+[2022.09.16-07.38.39:881][ 96]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.09.16-07.38.39:881][ 96]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.09.16-07.38.39:881][ 96]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.09.16-07.38.39:881][ 96]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.09.16-07.38.39:881][ 96]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.09.16-07.38.39:881][ 96]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.09.16-07.38.40:133][ 96]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.09.16-07.38.40:133][ 96]MapCheck: New page: Minimal_Default - 16 sept. 2022 à 11:38:40
+[2022.09.16-07.38.40:134][ 96]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2022.09.16-07.38.40:134][ 96]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0,619ms to complete.
+[2022.09.16-07.38.40:134][ 96]LogEditorBuildUtils: Build time 0:07
+[2022.09.16-07.38.40:518][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.09.16-07.38.44:908][321]LogSlate: Window 'Message Log' being destroyed
+[2022.09.16-07.38.44:919][321]LogSlate: Window 'Message Log' being destroyed
+[2022.09.16-07.38.47:286][459]Job is a success!
+[2022.09.16-07.38.47:429][460]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2022.09.16-07.38.47:429][460]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.09.16-07.38.47:429][460]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2022.09.16-07.38.47:429][460]LogVolumetricLightmapImport:      Bricks at depth
+[2022.09.16-07.38.47:429][460]LogVolumetricLightmapImport:          0: 4.0% covering 100.0% of volume
+[2022.09.16-07.38.47:429][460]LogVolumetricLightmapImport:          1: 8.0% covering 3.1% of volume
+[2022.09.16-07.38.47:429][460]LogVolumetricLightmapImport:          2: 88.0% covering 0.5% of volume
+[2022.09.16-07.38.47:429][460]LogVolumetricLightmapImport:      Bricks in each level
+[2022.09.16-07.38.47:429][460]LogVolumetricLightmapImport:          Minimal_Default 			 25 bricks 	 100.0% (Persistent Level)
+[2022.09.16-07.38.47:539][460]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion1_1 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-07.38.47:556][460]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-07.38.47:622][460]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-07.38.47:648][460]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_2 (TFO_AutoDXT, 64X32 X1X1) (Required Memory Estimate: 0.05209 MB), EncodeSpeed: Fast
+[2022.09.16-07.38.47:648][460]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.16-07.38.47:649][460]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.16-07.38.47:768][460]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:ShadowMapTexture2D_2 (G8, 1024X512 X1X1) (Required Memory Estimate: 3.333335 MB), EncodeSpeed: Fast
+[2022.09.16-07.38.47:827][460]Lightmass on DESKTOP-36KODR4: 5.62 sec total, 365 ms importing, 60 ms setup, 1.00 sec photons, 4.19 sec processing, 0 us extra exporting [16/16 mappings]. Threads: 29.3 sec total, 5.71 sec processing.
+[2022.09.16-07.38.47:834][460]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 16 meshes in 3 LightmapResourceClusters (5.3 Meshes per cluster).
+[2022.09.16-07.38.47:857][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.09.16-07.38.47:876][460]LogStaticLightingSystem: Illumination: 15.3 sec (197 ms encoding lightmaps, 128 ms encoding shadowmaps)
+[2022.09.16-07.38.47:876][460]LogStaticLightingSystem: Lightmap texture memory:  2.8 MB (2.8 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.09.16-07.38.47:876][460]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.09.16-07.38.48:893][460]DumpUnbuiltLightIteractions
+[2022.09.16-07.38.48:893][460]Lights with unbuilt interactions: 0
+[2022.09.16-07.38.48:893][460]
+[2022.09.16-07.38.48:893][460]Primitives with unbuilt interactions: 0
+[2022.09.16-07.38.48:930][461]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.09.16-07.38.48:930][461]MapCheck: New page: Minimal_Default - 16 sept. 2022 à 11:38:48
+[2022.09.16-07.38.48:930][461]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,358ms to complete.
+[2022.09.16-07.38.52:794][815]Cmd: DELETE
+[2022.09.16-07.38.52:794][815]Cmd: ACTOR DELETE
+[2022.09.16-07.38.52:796][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-07.38.52:809][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.09.16-07.38.52:811][815]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.09.16-07.38.53:299][852]Cmd: DELETE
+[2022.09.16-07.38.53:299][852]Cmd: ACTOR DELETE
+[2022.09.16-07.38.53:301][852]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-07.38.53:310][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.16-07.38.53:311][852]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.09.16-07.38.53:574][867]Cmd: DELETE
+[2022.09.16-07.38.53:574][867]Cmd: ACTOR DELETE
+[2022.09.16-07.38.53:576][867]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-07.38.53:585][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.16-07.38.53:586][867]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.09.16-07.38.54:943][  4]Cmd: DELETE
+[2022.09.16-07.38.54:943][  4]Cmd: ACTOR DELETE
+[2022.09.16-07.38.54:945][  4]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-07.38.54:955][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.09.16-07.38.54:956][  4]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.09.16-07.39.31:725][496]LogDerivedDataCache: C:/Users/romai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.737 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.16-07.40.47:440][506]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModSci_Engineer/Meshes/SM_Intersection_Wall.SM_Intersection_Wall
+[2022.09.16-07.40.47:440][506]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModSci_Engineer/Meshes/SM_Intersection_Wall.SM_Intersection_Wall
+[2022.09.16-07.40.47:440][506]LogActorFactory: Actor Factory spawned StaticMesh /Game/ModSci_Engineer/Meshes/SM_Intersection_Wall.SM_Intersection_Wall as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_7
+[2022.09.16-07.40.48:191][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModSci_Engineer/Meshes/SM_Intersection_Wall.SM_Intersection_Wall
+[2022.09.16-07.40.48:192][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModSci_Engineer/Meshes/SM_Intersection_Wall.SM_Intersection_Wall
+[2022.09.16-07.40.48:192][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/ModSci_Engineer/Meshes/SM_Intersection_Wall.SM_Intersection_Wall as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_13
+[2022.09.16-07.41.06:603][426]MapCheck: New page: Map Check
+[2022.09.16-07.41.06:618][426]LightingResults: New page: Lighting Build - 16 sept. 2022 à 11:41:06
+[2022.09.16-07.41.06:626][426]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.09.16-07.41.06:628][426]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.09.16-07.41.06:628][426]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.09.16-07.41.06:629][426]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.09.16-07.41.06:629][426]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12616
+[2022.09.16-07.41.11:236][426]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.09.16-07.41.11:237][426]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.09.16-07.41.11:237][426]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.09.16-07.41.11:237][426]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.09.16-07.41.11:237][426]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.09.16-07.41.11:237][426]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.09.16-07.41.11:434][426]LogEditorBuildUtils: Build time 0:04
+[2022.09.16-07.41.11:444][426]LogShaderCompilers: Display: ================================================
+[2022.09.16-07.41.11:444][426]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.16-07.41.11:444][426]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.16-07.41.11:444][426]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.16-07.41.11:444][426]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.16-07.41.11:444][426]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.16-07.41.11:444][426]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.16-07.41.11:444][426]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.16-07.41.11:444][426]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.16-07.41.11:444][426]LogShaderCompilers: Display: ================================================
+[2022.09.16-07.41.11:513][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.09.16-07.41.18:189][826]Job is a success!
+[2022.09.16-07.41.18:349][828]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.019s
+[2022.09.16-07.41.18:349][828]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.09.16-07.41.18:349][828]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.09.16-07.41.18:349][828]LogVolumetricLightmapImport:      Bricks at depth
+[2022.09.16-07.41.18:349][828]LogVolumetricLightmapImport:          0: 4.8% covering 100.0% of volume
+[2022.09.16-07.41.18:349][828]LogVolumetricLightmapImport:          1: 9.5% covering 3.1% of volume
+[2022.09.16-07.41.18:349][828]LogVolumetricLightmapImport:          2: 85.7% covering 0.4% of volume
+[2022.09.16-07.41.18:349][828]LogVolumetricLightmapImport:      Bricks in each level
+[2022.09.16-07.41.18:349][828]LogVolumetricLightmapImport:          Minimal_Default 			 21 bricks 	 100.0% (Persistent Level)
+[2022.09.16-07.41.18:461][828]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_1 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-07.41.18:476][828]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-07.41.18:539][828]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-07.41.18:563][828]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion1_2 (TFO_AutoDXT, 64X32 X1X1) (Required Memory Estimate: 0.05209 MB), EncodeSpeed: Fast
+[2022.09.16-07.41.18:564][828]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.16-07.41.18:564][828]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.16-07.41.18:674][828]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:ShadowMapTexture2D_4 (G8, 1024X512 X1X1) (Required Memory Estimate: 3.333335 MB), EncodeSpeed: Fast
+[2022.09.16-07.41.18:691][828]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 13 meshes in 3 LightmapResourceClusters (4.3 Meshes per cluster).
+[2022.09.16-07.41.18:702][828]Lightmass on DESKTOP-36KODR4: 5.51 sec total, 398 ms importing, 56 ms setup, 1.01 sec photons, 4.03 sec processing, 0 us extra exporting [13/13 mappings]. Threads: 28.2 sec total, 5.27 sec processing.
+[2022.09.16-07.41.18:716][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.09.16-07.41.18:769][828]LogStaticLightingSystem: Illumination: 12.0 sec (193 ms encoding lightmaps, 119 ms encoding shadowmaps)
+[2022.09.16-07.41.18:769][828]LogStaticLightingSystem: Lightmap texture memory:  2.8 MB (2.8 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.09.16-07.41.18:769][828]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.09.16-07.41.19:251][828]DumpUnbuiltLightIteractions
+[2022.09.16-07.41.19:251][828]Lights with unbuilt interactions: 0
+[2022.09.16-07.41.19:251][828]
+[2022.09.16-07.41.19:251][828]Primitives with unbuilt interactions: 0
+[2022.09.16-07.41.19:304][829]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.09.16-07.41.19:304][829]MapCheck: New page: Minimal_Default - 16 sept. 2022 à 11:41:19
+[2022.09.16-07.41.19:304][829]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,334ms to complete.
+[2022.09.16-07.41.26:193][481]MapCheck: New page: Map Check
+[2022.09.16-07.41.26:211][481]Cmd: MAP REBUILD ALLVISIBLE
+[2022.09.16-07.41.26:212][481]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.09.16-07.41.26:272][481]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.09.16-07.41.26:272][481]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2022.09.16-07.41.26:290][481]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.09.16-07.41.26:291][481]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.09.16-07.41.26:291][481]LogNavigationDataBuild: Display:    Building navigation data using WITH_CHAOS.
+[2022.09.16-07.41.26:303][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.09.16-07.41.26:355][481]LogLevel: Display: Export Material TexCoord Scales took 0.051 seconds.
+[2022.09.16-07.41.26:358][481]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2022.09.16-07.41.26:365][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.16-07.41.26:368][481]LightingResults: New page: Lighting Build - 16 sept. 2022 à 11:41:26
+[2022.09.16-07.41.26:374][481]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.09.16-07.41.26:377][481]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.09.16-07.41.26:377][481]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.09.16-07.41.26:378][481]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.09.16-07.41.26:378][481]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12616
+[2022.09.16-07.41.30:980][481]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.09.16-07.41.30:981][481]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.09.16-07.41.30:981][481]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.09.16-07.41.30:981][481]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.09.16-07.41.30:981][481]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.09.16-07.41.30:981][481]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.09.16-07.41.31:133][481]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.09.16-07.41.31:133][481]MapCheck: New page: Minimal_Default - 16 sept. 2022 à 11:41:31
+[2022.09.16-07.41.31:133][481]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,413ms to complete.
+[2022.09.16-07.41.31:133][481]LogEditorBuildUtils: Build time 0:04
+[2022.09.16-07.41.31:353][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.09.16-07.41.37:812][873]Job is a success!
+[2022.09.16-07.41.37:978][874]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2022.09.16-07.41.37:978][874]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.09.16-07.41.37:978][874]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.09.16-07.41.37:978][874]LogVolumetricLightmapImport:      Bricks at depth
+[2022.09.16-07.41.37:978][874]LogVolumetricLightmapImport:          0: 4.8% covering 100.0% of volume
+[2022.09.16-07.41.37:978][874]LogVolumetricLightmapImport:          1: 9.5% covering 3.1% of volume
+[2022.09.16-07.41.37:978][874]LogVolumetricLightmapImport:          2: 85.7% covering 0.4% of volume
+[2022.09.16-07.41.37:978][874]LogVolumetricLightmapImport:      Bricks in each level
+[2022.09.16-07.41.37:978][874]LogVolumetricLightmapImport:          Minimal_Default 			 21 bricks 	 100.0% (Persistent Level)
+[2022.09.16-07.41.38:086][874]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion1_1 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-07.41.38:103][874]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-07.41.38:137][874]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-07.41.38:188][874]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_2 (TFO_AutoDXT, 64X32 X1X1) (Required Memory Estimate: 0.05209 MB), EncodeSpeed: Fast
+[2022.09.16-07.41.38:188][874]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.16-07.41.38:189][874]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.16-07.41.38:299][874]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 13 meshes in 3 LightmapResourceClusters (4.3 Meshes per cluster).
+[2022.09.16-07.41.38:303][874]Lightmass on DESKTOP-36KODR4: 5.41 sec total, 373 ms importing, 56 ms setup, 953 ms photons, 4.02 sec processing, 0 us extra exporting [13/13 mappings]. Threads: 28.1 sec total, 5.23 sec processing.
+[2022.09.16-07.41.38:324][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.09.16-07.41.38:391][874]LogStaticLightingSystem: Illumination: 11.9 sec (189 ms encoding lightmaps, 104 ms encoding shadowmaps)
+[2022.09.16-07.41.38:391][874]LogStaticLightingSystem: Lightmap texture memory:  2.8 MB (2.8 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.09.16-07.41.38:391][874]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.09.16-07.41.38:991][874]DumpUnbuiltLightIteractions
+[2022.09.16-07.41.38:991][874]Lights with unbuilt interactions: 0
+[2022.09.16-07.41.38:991][874]
+[2022.09.16-07.41.38:991][874]Primitives with unbuilt interactions: 0
+[2022.09.16-07.41.39:033][875]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.09.16-07.41.39:033][875]MapCheck: New page: Minimal_Default - 16 sept. 2022 à 11:41:39
+[2022.09.16-07.41.39:034][875]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,308ms to complete.
+[2022.09.16-07.41.41:714][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.09.16-07.41.41:719][ 78]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.003748 seconds
+[2022.09.16-07.41.41:774][ 78]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.09.16-07.41.41:774][ 78]LogSavePackage: Moving 'D:/unreal Projects 5/FakeMirrorsEdge/Saved/Minimal_Default05D6A85B485F8E391633A99F0247653A.tmp' to 'D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.09.16-07.41.41:787][ 78]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.09.16-07.41.41:788][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.09.16-07.41.41:895][ 78]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.09.16-07.41.41:896][ 78]LogSavePackage: Moving 'D:/unreal Projects 5/FakeMirrorsEdge/Saved/Minimal_Default_BuiltDataA81859D341612AD358C47A88D8E638BB.tmp' to 'D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.09.16-07.41.41:934][ 78]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.09.16-07.41.41:945][ 78]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.16-07.41.41:946][ 78]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.09.16-07.41.41:946][ 78]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.09.16-07.41.49:257][729]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModSci_Engineer/Meshes/SM_Wall_HB_A.SM_Wall_HB_A
+[2022.09.16-07.41.49:257][729]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModSci_Engineer/Meshes/SM_Wall_HB_A.SM_Wall_HB_A
+[2022.09.16-07.41.49:257][729]LogActorFactory: Actor Factory spawned StaticMesh /Game/ModSci_Engineer/Meshes/SM_Wall_HB_A.SM_Wall_HB_A as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_15
+[2022.09.16-07.41.51:057][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModSci_Engineer/Meshes/SM_Wall_HB_A.SM_Wall_HB_A
+[2022.09.16-07.41.51:057][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModSci_Engineer/Meshes/SM_Wall_HB_A.SM_Wall_HB_A
+[2022.09.16-07.41.51:057][919]LogActorFactory: Actor Factory spawned StaticMesh /Game/ModSci_Engineer/Meshes/SM_Wall_HB_A.SM_Wall_HB_A as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_17
+[2022.09.16-07.41.58:342][547]Cmd: DELETE
+[2022.09.16-07.41.58:342][547]Cmd: ACTOR DELETE
+[2022.09.16-07.41.58:344][547]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-07.41.58:353][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.09.16-07.41.58:354][547]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.09.16-07.42.42:189][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.09.16-07.42.42:225][817]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.09.16-07.42.42:226][817]LogSavePackage: Moving 'D:/unreal Projects 5/FakeMirrorsEdge/Saved/Minimal_Default32A8DE9A403DDF45B0ED61979002E30D.tmp' to 'D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.09.16-07.42.42:239][817]LogFileHelpers: No new changes to save!
+[2022.09.16-07.42.42:251][817]AssetCheck: New page: Asset Save: Minimal_Default
+[2022.09.16-07.42.42:251][817]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.09.16-07.42.45:236][107]MapCheck: New page: Map Check
+[2022.09.16-07.42.45:261][107]Cmd: MAP REBUILD ALLVISIBLE
+[2022.09.16-07.42.45:262][107]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.09.16-07.42.45:320][107]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.09.16-07.42.45:320][107]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2022.09.16-07.42.45:338][107]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.09.16-07.42.45:338][107]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.09.16-07.42.45:338][107]LogNavigationDataBuild: Display:    Building navigation data using WITH_CHAOS.
+[2022.09.16-07.42.45:349][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.09.16-07.42.45:383][107]LogLevel: Display: Export Material TexCoord Scales took 0.034 seconds.
+[2022.09.16-07.42.45:386][107]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2022.09.16-07.42.45:394][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.09.16-07.42.45:398][107]LightingResults: New page: Lighting Build - 16 sept. 2022 à 11:42:45
+[2022.09.16-07.42.45:404][107]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.09.16-07.42.45:407][107]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.09.16-07.42.45:407][107]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.09.16-07.42.45:408][107]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.09.16-07.42.45:408][107]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12616
+[2022.09.16-07.42.51:007][107]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.09.16-07.42.51:008][107]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.09.16-07.42.51:008][107]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.09.16-07.42.51:008][107]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.09.16-07.42.51:008][107]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.09.16-07.42.51:008][107]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.09.16-07.42.51:265][107]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.09.16-07.42.51:265][107]MapCheck: New page: Minimal_Default - 16 sept. 2022 à 11:42:51
+[2022.09.16-07.42.51:265][107]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,404ms to complete.
+[2022.09.16-07.42.51:265][107]LogEditorBuildUtils: Build time 0:06
+[2022.09.16-07.42.51:698][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.09.16-07.42.57:759][126]Job is a success!
+[2022.09.16-07.42.58:219][127]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2022.09.16-07.42.58:219][127]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.09.16-07.42.58:219][127]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.09.16-07.42.58:219][127]LogVolumetricLightmapImport:      Bricks at depth
+[2022.09.16-07.42.58:219][127]LogVolumetricLightmapImport:          0: 4.8% covering 100.0% of volume
+[2022.09.16-07.42.58:219][127]LogVolumetricLightmapImport:          1: 9.5% covering 3.1% of volume
+[2022.09.16-07.42.58:219][127]LogVolumetricLightmapImport:          2: 85.7% covering 0.4% of volume
+[2022.09.16-07.42.58:219][127]LogVolumetricLightmapImport:      Bricks in each level
+[2022.09.16-07.42.58:219][127]LogVolumetricLightmapImport:          Minimal_Default 			 21 bricks 	 100.0% (Persistent Level)
+[2022.09.16-07.42.58:337][127]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_1 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-07.42.58:355][127]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-07.42.58:419][127]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-07.42.58:443][127]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion1_2 (TFO_AutoDXT, 64X32 X1X1) (Required Memory Estimate: 0.05209 MB), EncodeSpeed: Fast
+[2022.09.16-07.42.58:444][127]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.16-07.42.58:446][127]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.16-07.42.58:571][127]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 13 meshes in 3 LightmapResourceClusters (4.3 Meshes per cluster).
+[2022.09.16-07.42.58:579][127]Lightmass on DESKTOP-36KODR4: 5.08 sec total, 342 ms importing, 47 ms setup, 904 ms photons, 3.78 sec processing, 0 us extra exporting [13/13 mappings]. Threads: 26.4 sec total, 4.30 sec processing.
+[2022.09.16-07.42.58:595][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.09.16-07.42.58:610][127]LogStaticLightingSystem: Illumination: 12.8 sec (203 ms encoding lightmaps, 117 ms encoding shadowmaps)
+[2022.09.16-07.42.58:610][127]LogStaticLightingSystem: Lightmap texture memory:  2.8 MB (2.8 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.09.16-07.42.58:610][127]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.09.16-07.42.59:025][127]DumpUnbuiltLightIteractions
+[2022.09.16-07.42.59:025][127]Lights with unbuilt interactions: 0
+[2022.09.16-07.42.59:025][127]
+[2022.09.16-07.42.59:025][127]Primitives with unbuilt interactions: 0
+[2022.09.16-07.42.59:119][128]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.09.16-07.42.59:119][128]MapCheck: New page: Minimal_Default - 16 sept. 2022 à 11:42:59
+[2022.09.16-07.42.59:119][128]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,416ms to complete.
+[2022.09.16-07.49.23:417][604]Cmd: DELETE
+[2022.09.16-07.49.23:417][604]Cmd: ACTOR DELETE
+[2022.09.16-07.49.38:290][267]Cmd: EDIT COPY
+[2022.09.16-07.49.38:599][293]Cmd: EDIT PASTE
+[2022.09.16-07.50.26:269][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.09.16-07.50.26:312][423]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.09.16-07.50.26:313][423]LogSavePackage: Moving 'D:/unreal Projects 5/FakeMirrorsEdge/Saved/Minimal_Default5CF8A22E47E8C45D30736E930EC46D84.tmp' to 'D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.09.16-07.50.26:325][423]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.09.16-07.50.26:325][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.09.16-07.50.26:430][423]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.09.16-07.50.26:431][423]LogSavePackage: Moving 'D:/unreal Projects 5/FakeMirrorsEdge/Saved/Minimal_Default_BuiltData0BEADD184AD5ADC0042CE4AD817CDAD3.tmp' to 'D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.09.16-07.50.26:432][423]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.09.16-07.50.26:446][423]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.16-07.50.26:446][423]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.09.16-07.50.26:446][423]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.09.16-07.50.29:588][723]MapCheck: New page: Map Check
+[2022.09.16-07.50.29:609][723]LightingResults: New page: Lighting Build - 16 sept. 2022 à 11:50:29
+[2022.09.16-07.50.29:617][723]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.09.16-07.50.29:620][723]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.09.16-07.50.29:620][723]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.09.16-07.50.29:621][723]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.09.16-07.50.29:621][723]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12616
+[2022.09.16-07.50.34:229][723]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.09.16-07.50.34:230][723]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.09.16-07.50.34:230][723]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.09.16-07.50.34:230][723]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.09.16-07.50.34:230][723]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.09.16-07.50.34:230][723]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.09.16-07.50.34:472][723]LogEditorBuildUtils: Build time 0:04
+[2022.09.16-07.50.34:485][723]LogShaderCompilers: Display: ================================================
+[2022.09.16-07.50.34:485][723]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.16-07.50.34:485][723]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.16-07.50.34:485][723]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.16-07.50.34:485][723]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.16-07.50.34:485][723]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.16-07.50.34:485][723]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.16-07.50.34:485][723]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.16-07.50.34:485][723]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.16-07.50.34:485][723]LogShaderCompilers: Display: ================================================
+[2022.09.16-07.50.34:528][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.09.16-07.50.41:527][744]Job is a success!
+[2022.09.16-07.50.42:018][745]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2022.09.16-07.50.42:018][745]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.09.16-07.50.42:018][745]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.09.16-07.50.42:018][745]LogVolumetricLightmapImport:      Bricks at depth
+[2022.09.16-07.50.42:018][745]LogVolumetricLightmapImport:          0: 4.5% covering 100.0% of volume
+[2022.09.16-07.50.42:018][745]LogVolumetricLightmapImport:          1: 18.2% covering 6.2% of volume
+[2022.09.16-07.50.42:018][745]LogVolumetricLightmapImport:          2: 77.3% covering 0.4% of volume
+[2022.09.16-07.50.42:018][745]LogVolumetricLightmapImport:      Bricks in each level
+[2022.09.16-07.50.42:018][745]LogVolumetricLightmapImport:          Minimal_Default 			 22 bricks 	 100.0% (Persistent Level)
+[2022.09.16-07.50.42:146][745]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion1_1 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-07.50.42:167][745]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-07.50.42:236][745]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-07.50.42:268][745]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_2 (TFO_AutoDXT, 512X256 X1X1) (Required Memory Estimate: 3.33334 MB), EncodeSpeed: Fast
+[2022.09.16-07.50.42:279][745]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.09.16-07.50.42:296][745]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.09.16-07.50.42:310][745]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_3 (TFO_AutoDXT, 64X32 X1X1) (Required Memory Estimate: 0.05209 MB), EncodeSpeed: Fast
+[2022.09.16-07.50.42:311][745]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.16-07.50.42:312][745]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.16-07.50.42:565][745]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:ShadowMapTexture2D_10 (G8, 1024X1024 X1X1) (Required Memory Estimate: 6.666665 MB), EncodeSpeed: Fast
+[2022.09.16-07.50.42:591][745]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 15 meshes in 4 LightmapResourceClusters (3.8 Meshes per cluster).
+[2022.09.16-07.50.42:609][745]Lightmass on DESKTOP-36KODR4: 6.25 sec total, 328 ms importing, 54 ms setup, 893 ms photons, 4.96 sec processing, 0 us extra exporting [15/15 mappings]. Threads: 34.7 sec total, 8.48 sec processing.
+[2022.09.16-07.50.42:624][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.09.16-07.50.42:638][745]LogStaticLightingSystem: Illumination: 12.6 sec (253 ms encoding lightmaps, 273 ms encoding shadowmaps)
+[2022.09.16-07.50.42:639][745]LogStaticLightingSystem: Lightmap texture memory:  3.5 MB (3.5 MB streaming, 0.0 MB non-streaming), 6 textures
+[2022.09.16-07.50.42:639][745]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (1.4 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.09.16-07.50.43:239][745]DumpUnbuiltLightIteractions
+[2022.09.16-07.50.43:239][745]Lights with unbuilt interactions: 0
+[2022.09.16-07.50.43:239][745]
+[2022.09.16-07.50.43:239][745]Primitives with unbuilt interactions: 0
+[2022.09.16-07.50.43:360][746]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.09.16-07.50.43:361][746]MapCheck: New page: Minimal_Default - 16 sept. 2022 à 11:50:43
+[2022.09.16-07.50.43:363][746]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,933ms to complete.
+[2022.09.16-07.56.17:986][395]Cmd: EDIT COPY
+[2022.09.16-07.56.18:397][443]Cmd: EDIT PASTE
+[2022.09.16-07.57.07:242][171]Cmd: DELETE
+[2022.09.16-07.57.07:242][171]Cmd: ACTOR DELETE
+[2022.09.16-07.57.08:109][275]Cmd: DELETE
+[2022.09.16-07.57.08:109][275]Cmd: ACTOR DELETE
+[2022.09.16-07.58.31:459][453]Cmd: EDIT COPY
+[2022.09.16-07.58.31:651][474]Cmd: EDIT PASTE
+[2022.09.16-07.58.58:342][361]Cmd: EDIT COPY
+[2022.09.16-07.58.59:602][511]Cmd: EDIT PASTE
+[2022.09.16-07.59.58:158][996]Cmd: EDIT COPY
+[2022.09.16-07.59.58:569][ 45]Cmd: EDIT PASTE
+[2022.09.16-08.00.37:279][476]Cmd: TRANSACTION UNDO
+[2022.09.16-08.00.37:279][476]LogEditorTransaction: Undo Clicking on Elements
+[2022.09.16-08.00.37:745][486]Cmd: TRANSACTION UNDO
+[2022.09.16-08.00.37:745][486]LogEditorTransaction: Undo Clicking on Actors
+[2022.09.16-08.00.38:342][541]Cmd: TRANSACTION UNDO
+[2022.09.16-08.00.38:342][541]LogEditorTransaction: Undo Rotate Elements
+[2022.09.16-08.00.38:900][596]Cmd: TRANSACTION UNDO
+[2022.09.16-08.00.38:900][596]LogEditorTransaction: Undo Clicking on Elements
+[2022.09.16-08.00.39:330][638]Cmd: TRANSACTION UNDO
+[2022.09.16-08.00.39:330][638]LogEditorTransaction: Undo Clicking on Actors
+[2022.09.16-08.00.39:737][680]Cmd: TRANSACTION UNDO
+[2022.09.16-08.00.39:737][680]LogEditorTransaction: Undo Clicking on Elements
+[2022.09.16-08.00.40:212][730]Cmd: TRANSACTION UNDO
+[2022.09.16-08.00.40:212][730]LogEditorTransaction: Undo Clicking on Elements
+[2022.09.16-08.00.40:630][776]Cmd: TRANSACTION UNDO
+[2022.09.16-08.00.40:630][776]LogEditorTransaction: Undo Clicking on Elements
+[2022.09.16-08.01.51:669][706]Cmd: EDIT COPY
+[2022.09.16-08.01.51:905][734]Cmd: EDIT PASTE
+[2022.09.16-08.03.27:087][645]Cmd: EDIT COPY
+[2022.09.16-08.03.27:499][694]Cmd: EDIT PASTE
+[2022.09.16-08.05.50:402][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.09.16-08.05.50:543][803]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.09.16-08.05.50:543][803]LogSavePackage: Moving 'D:/unreal Projects 5/FakeMirrorsEdge/Saved/Minimal_Default7CAC14124D54A70BDEAA35824A121D47.tmp' to 'D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.09.16-08.05.50:556][803]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.09.16-08.05.50:556][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.09.16-08.05.50:735][803]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.09.16-08.05.50:735][803]LogSavePackage: Moving 'D:/unreal Projects 5/FakeMirrorsEdge/Saved/Minimal_Default_BuiltData76C77678424942768A0212A8A05BE88D.tmp' to 'D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.09.16-08.05.50:737][803]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.09.16-08.05.50:755][803]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.16-08.05.50:755][803]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.09.16-08.05.50:755][803]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.09.16-08.06.35:916][152]MapCheck: New page: Map Check
+[2022.09.16-08.06.35:937][152]LightingResults: New page: Lighting Build - 16 sept. 2022 à 12:06:35
+[2022.09.16-08.06.35:948][152]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.09.16-08.06.35:956][152]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.09.16-08.06.35:956][152]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.09.16-08.06.35:957][152]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.09.16-08.06.35:957][152]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12616
+[2022.09.16-08.06.40:550][152]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2022.09.16-08.06.40:551][152]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.09.16-08.06.40:551][152]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.09.16-08.06.40:551][152]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.09.16-08.06.40:551][152]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.09.16-08.06.40:551][152]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.09.16-08.06.40:756][152]LogEditorBuildUtils: Build time 0:04
+[2022.09.16-08.06.40:762][152]LogShaderCompilers: Display: ================================================
+[2022.09.16-08.06.40:762][152]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.16-08.06.40:762][152]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.16-08.06.40:762][152]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.16-08.06.40:762][152]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.16-08.06.40:762][152]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.16-08.06.40:762][152]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.16-08.06.40:762][152]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.16-08.06.40:762][152]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.16-08.06.40:762][152]LogShaderCompilers: Display: ================================================
+[2022.09.16-08.06.40:797][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.09.16-08.06.50:044][902]Job is a success!
+[2022.09.16-08.06.50:645][903]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.116s
+[2022.09.16-08.06.50:646][903]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2022.09.16-08.06.50:646][903]LogVolumetricLightmapImport:      BrickData (all levels) 0.6Mb
+[2022.09.16-08.06.50:646][903]LogVolumetricLightmapImport:      Bricks at depth
+[2022.09.16-08.06.50:646][903]LogVolumetricLightmapImport:          0: 6.8% covering 100.0% of volume
+[2022.09.16-08.06.50:646][903]LogVolumetricLightmapImport:          1: 11.0% covering 2.5% of volume
+[2022.09.16-08.06.50:646][903]LogVolumetricLightmapImport:          2: 82.2% covering 0.3% of volume
+[2022.09.16-08.06.50:646][903]LogVolumetricLightmapImport:      Bricks in each level
+[2022.09.16-08.06.50:646][903]LogVolumetricLightmapImport:          Minimal_Default 			 118 bricks 	 100.0% (Persistent Level)
+[2022.09.16-08.06.50:878][903]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_1 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.06.50:897][903]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.06.50:945][903]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.06.50:984][903]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion1_2 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.06.51:006][903]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.06.51:041][903]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.06.51:074][903]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion1_3 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.06.51:099][903]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.06.51:145][903]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_1_3 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.06.51:183][903]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_4 (TFO_AutoDXT, 64X32 X1X1) (Required Memory Estimate: 0.05209 MB), EncodeSpeed: Fast
+[2022.09.16-08.06.51:185][903]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_4 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.16-08.06.51:186][903]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_4 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.16-08.06.51:539][903]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:ShadowMapTexture2D_12 (G8, 1024X1024 X1X1) (Required Memory Estimate: 6.666665 MB), EncodeSpeed: Fast
+[2022.09.16-08.06.51:571][903]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:ShadowMapTexture2D_13 (G8, 1024X256 X1X1) (Required Memory Estimate: 1.666675 MB), EncodeSpeed: Fast
+[2022.09.16-08.06.51:635][903]Lightmass on DESKTOP-36KODR4: 9.02 sec total, 320 ms importing, 188 ms setup, 1.49 sec photons, 7.00 sec processing, 0 us extra exporting [79/79 mappings]. Threads: 49.0 sec total, 19.3 sec processing.
+[2022.09.16-08.06.51:654][903]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 79 meshes in 5 LightmapResourceClusters (15.8 Meshes per cluster).
+[2022.09.16-08.06.51:697][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.09.16-08.06.51:713][903]LogStaticLightingSystem: Illumination: 15.4 sec (443 ms encoding lightmaps, 397 ms encoding shadowmaps)
+[2022.09.16-08.06.51:713][903]LogStaticLightingSystem: Lightmap texture memory:  8.3 MB (8.3 MB streaming, 0.0 MB non-streaming), 8 textures
+[2022.09.16-08.06.51:713][903]LogStaticLightingSystem: Shadowmap texture memory: 1.8 MB (1.8 MB streaming, 0.0 MB non-streaming), 3 textures
+[2022.09.16-08.06.52:569][903]DumpUnbuiltLightIteractions
+[2022.09.16-08.06.52:569][903]Lights with unbuilt interactions: 0
+[2022.09.16-08.06.52:569][903]
+[2022.09.16-08.06.52:569][903]Primitives with unbuilt interactions: 0
+[2022.09.16-08.06.52:663][904]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.09.16-08.06.52:663][904]MapCheck: New page: Minimal_Default - 16 sept. 2022 à 12:06:52
+[2022.09.16-08.06.52:665][904]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,385ms to complete.
+[2022.09.16-08.07.10:062][ 71]LogSlate: Window 'Message Log' being destroyed
+[2022.09.16-08.07.10:069][ 71]LogSlate: Window 'Message Log' being destroyed
+[2022.09.16-08.07.12:056][293]MapCheck: New page: Map Check
+[2022.09.16-08.07.12:084][293]Cmd: MAP REBUILD ALLVISIBLE
+[2022.09.16-08.07.12:085][293]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.09.16-08.07.12:150][293]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.09.16-08.07.12:150][293]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2022.09.16-08.07.12:172][293]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.09.16-08.07.12:172][293]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.09.16-08.07.12:172][293]LogNavigationDataBuild: Display:    Building navigation data using WITH_CHAOS.
+[2022.09.16-08.07.12:185][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.09.16-08.07.12:230][293]LogLevel: Display: Export Material TexCoord Scales took 0.044 seconds.
+[2022.09.16-08.07.12:242][293]TextureStreamingBuild: Display: Build Texture Streaming took 0.012 seconds.
+[2022.09.16-08.07.12:251][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.09.16-08.07.12:255][293]LightingResults: New page: Lighting Build - 16 sept. 2022 à 12:07:12
+[2022.09.16-08.07.12:261][293]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.09.16-08.07.12:264][293]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.09.16-08.07.12:264][293]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.09.16-08.07.12:265][293]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.09.16-08.07.12:265][293]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12616
+[2022.09.16-08.07.16:831][293]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2022.09.16-08.07.16:831][293]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.09.16-08.07.16:831][293]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.09.16-08.07.16:831][293]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.09.16-08.07.16:831][293]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.09.16-08.07.16:831][293]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.09.16-08.07.16:988][293]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.09.16-08.07.16:988][293]MapCheck: New page: Minimal_Default - 16 sept. 2022 à 12:07:16
+[2022.09.16-08.07.16:988][293]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,757ms to complete.
+[2022.09.16-08.07.16:989][293]LogEditorBuildUtils: Build time 0:04
+[2022.09.16-08.07.17:157][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.09.16-08.07.28:027][193]Job is a success!
+[2022.09.16-08.07.28:301][194]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.105s
+[2022.09.16-08.07.28:301][194]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2022.09.16-08.07.28:301][194]LogVolumetricLightmapImport:      BrickData (all levels) 0.6Mb
+[2022.09.16-08.07.28:301][194]LogVolumetricLightmapImport:      Bricks at depth
+[2022.09.16-08.07.28:301][194]LogVolumetricLightmapImport:          0: 6.8% covering 100.0% of volume
+[2022.09.16-08.07.28:301][194]LogVolumetricLightmapImport:          1: 11.0% covering 2.5% of volume
+[2022.09.16-08.07.28:301][194]LogVolumetricLightmapImport:          2: 82.2% covering 0.3% of volume
+[2022.09.16-08.07.28:301][194]LogVolumetricLightmapImport:      Bricks in each level
+[2022.09.16-08.07.28:301][194]LogVolumetricLightmapImport:          Minimal_Default 			 118 bricks 	 100.0% (Persistent Level)
+[2022.09.16-08.07.28:506][194]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion1_1 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.07.28:523][194]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.07.28:563][194]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.07.28:615][194]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_2 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.07.28:631][194]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.07.28:662][194]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.07.28:690][194]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_3 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.07.28:710][194]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.07.28:745][194]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.07.28:772][194]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion1_4 (TFO_AutoDXT, 64X32 X1X1) (Required Memory Estimate: 0.05209 MB), EncodeSpeed: Fast
+[2022.09.16-08.07.28:773][194]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap1_4 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.16-08.07.28:774][194]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_1_4 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.16-08.07.29:036][194]Lightmass on DESKTOP-36KODR4: 10.5 sec total, 454 ms importing, 223 ms setup, 1.91 sec photons, 7.88 sec processing, 0 us extra exporting [79/79 mappings]. Threads: 55.2 sec total, 24.9 sec processing.
+[2022.09.16-08.07.29:058][194]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 79 meshes in 5 LightmapResourceClusters (15.8 Meshes per cluster).
+[2022.09.16-08.07.29:090][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.09.16-08.07.29:100][194]LogStaticLightingSystem: Illumination: 16.8 sec (382 ms encoding lightmaps, 218 ms encoding shadowmaps)
+[2022.09.16-08.07.29:100][194]LogStaticLightingSystem: Lightmap texture memory:  8.3 MB (8.3 MB streaming, 0.0 MB non-streaming), 8 textures
+[2022.09.16-08.07.29:100][194]LogStaticLightingSystem: Shadowmap texture memory: 1.8 MB (1.8 MB streaming, 0.0 MB non-streaming), 3 textures
+[2022.09.16-08.07.29:849][194]DumpUnbuiltLightIteractions
+[2022.09.16-08.07.29:850][194]Lights with unbuilt interactions: 0
+[2022.09.16-08.07.29:850][194]
+[2022.09.16-08.07.29:850][194]Primitives with unbuilt interactions: 0
+[2022.09.16-08.07.29:897][195]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.09.16-08.07.29:897][195]MapCheck: New page: Minimal_Default - 16 sept. 2022 à 12:07:29
+[2022.09.16-08.07.29:898][195]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,78ms to complete.
+[2022.09.16-08.07.44:081][672]LogSlate: Window 'Message Log' being destroyed
+[2022.09.16-08.07.44:089][672]LogSlate: Window 'Message Log' being destroyed
+[2022.09.16-08.15.47:471][666]Cmd: DELETE
+[2022.09.16-08.15.47:471][666]Cmd: ACTOR DELETE
+[2022.09.16-08.15.47:475][666]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.15.47:484][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.09.16-08.15.47:485][666]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.09.16-08.15.52:651][199]Cmd: DELETE
+[2022.09.16-08.15.52:651][199]Cmd: ACTOR DELETE
+[2022.09.16-08.15.52:653][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.15.52:654][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.15.52:654][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.15.52:654][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.15.52:655][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.15.52:655][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.15.52:664][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.16-08.15.52:665][199]LogEditorActor: Deleted 6 Actors (0.014 secs)
+[2022.09.16-08.17.15:749][402]Cmd: TRANSACTION UNDO
+[2022.09.16-08.17.15:749][402]LogEditorTransaction: Undo Clicking on Elements
+[2022.09.16-08.17.16:056][407]Cmd: TRANSACTION UNDO
+[2022.09.16-08.17.16:056][407]LogEditorTransaction: Undo Move Elements
+[2022.09.16-08.17.16:529][443]Cmd: TRANSACTION UNDO
+[2022.09.16-08.17.16:529][443]LogEditorTransaction: Undo Move Elements
+[2022.09.16-08.17.17:161][514]Cmd: TRANSACTION UNDO
+[2022.09.16-08.17.17:161][514]LogEditorTransaction: Undo Move Elements
+[2022.09.16-08.18.01:823][569]Cmd: EDIT COPY
+[2022.09.16-08.18.02:150][608]Cmd: EDIT PASTE
+[2022.09.16-08.18.40:299][ 61]Cmd: DELETE
+[2022.09.16-08.18.40:299][ 61]Cmd: ACTOR DELETE
+[2022.09.16-08.18.40:302][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.18.40:303][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.18.40:303][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.18.40:303][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.18.40:304][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.18.40:304][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.18.40:304][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.18.40:305][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.18.40:305][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.18.40:314][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.09.16-08.18.40:315][ 61]LogEditorActor: Deleted 9 Actors (0.016 secs)
+[2022.09.16-08.19.37:244][633]Cmd: DELETE
+[2022.09.16-08.19.37:245][633]Cmd: ACTOR DELETE
+[2022.09.16-08.19.37:248][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.19.37:248][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.19.37:249][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.19.37:249][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.19.37:249][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.19.37:249][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.19.37:250][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.19.37:250][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.19.37:250][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-08.19.37:258][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.16-08.19.37:259][633]LogEditorActor: Deleted 9 Actors (0.015 secs)
+[2022.09.16-08.19.49:741][ 41]Cmd: EDIT COPY
+[2022.09.16-08.19.50:076][ 81]Cmd: EDIT PASTE
+[2022.09.16-08.21.02:712][379]Cmd: EDIT COPY
+[2022.09.16-08.21.02:997][413]Cmd: EDIT PASTE
+[2022.09.16-08.21.24:341][813]Cmd: EDIT COPY
+[2022.09.16-08.21.24:680][850]Cmd: EDIT PASTE
+[2022.09.16-08.22.02:164][101]Cmd: EDIT COPY
+[2022.09.16-08.22.02:434][133]Cmd: EDIT PASTE
+[2022.09.16-08.25.02:278][857]Cmd: TRANSACTION UNDO
+[2022.09.16-08.25.02:278][857]LogEditorTransaction: Undo Move Elements
+[2022.09.16-08.25.24:403][216]Cmd: EDIT COPY
+[2022.09.16-08.25.24:735][254]Cmd: EDIT PASTE
+[2022.09.16-08.26.22:113][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.09.16-08.26.22:448][330]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.09.16-08.26.22:448][330]LogSavePackage: Moving 'D:/unreal Projects 5/FakeMirrorsEdge/Saved/Minimal_Default2ECDBFAF4184B6CE5AC5EA8C849B1C31.tmp' to 'D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.09.16-08.26.22:470][330]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.09.16-08.26.22:470][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.09.16-08.26.22:763][330]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.09.16-08.26.22:764][330]LogSavePackage: Moving 'D:/unreal Projects 5/FakeMirrorsEdge/Saved/Minimal_Default_BuiltData0209F1EE4B477BC17DA91FBA118735FA.tmp' to 'D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.09.16-08.26.22:765][330]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.09.16-08.26.22:788][330]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.16-08.26.22:788][330]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.09.16-08.26.22:788][330]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.09.16-08.26.55:687][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.09.16-08.26.56:030][915]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.09.16-08.26.56:031][915]LogSavePackage: Moving 'D:/unreal Projects 5/FakeMirrorsEdge/Saved/Minimal_Default7347BFDF44A7B30B07B8A398944EE85D.tmp' to 'D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.09.16-08.26.56:042][915]LogFileHelpers: No new changes to save!
+[2022.09.16-08.26.56:062][915]AssetCheck: New page: Asset Save: Minimal_Default
+[2022.09.16-08.26.56:062][915]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.09.16-08.27.47:592][ 64]Cmd: TRANSACTION UNDO
+[2022.09.16-08.27.47:593][ 64]LogEditorTransaction: Undo Move Elements
+[2022.09.16-08.27.48:483][109]Cmd: TRANSACTION UNDO
+[2022.09.16-08.27.48:483][109]LogEditorTransaction: Undo Move Elements
+[2022.09.16-08.28.49:083][772]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: '  (U+202f)'
+[2022.09.16-08.28.49:111][772]LogSlate: Took 0.025674 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.09.16-08.29.11:071][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.09.16-08.29.13:491][178]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.09.16-08.29.13:491][178]LogSavePackage: Moving 'D:/unreal Projects 5/FakeMirrorsEdge/Saved/Minimal_Default93822E3C4BB87A4C99777885AB590406.tmp' to 'D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.09.16-08.29.13:521][178]LogFileHelpers: No new changes to save!
+[2022.09.16-08.29.13:565][178]AssetCheck: New page: Asset Save: Minimal_Default
+[2022.09.16-08.29.13:565][178]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.09.16-08.29.25:953][393]MapCheck: New page: Map Check
+[2022.09.16-08.29.25:975][393]LightingResults: New page: Lighting Build - 16 sept. 2022 à 12:29:25
+[2022.09.16-08.29.25:986][393]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.09.16-08.29.25:989][393]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.09.16-08.29.25:989][393]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.09.16-08.29.25:990][393]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.09.16-08.29.25:990][393]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12616
+[2022.09.16-08.29.30:590][393]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2022.09.16-08.29.30:592][393]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.09.16-08.29.30:592][393]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.09.16-08.29.30:592][393]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.09.16-08.29.30:592][393]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.09.16-08.29.30:592][393]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.09.16-08.29.30:872][393]LogEditorBuildUtils: Build time 0:04
+[2022.09.16-08.29.30:880][393]LogShaderCompilers: Display: ================================================
+[2022.09.16-08.29.30:880][393]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.16-08.29.30:880][393]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.16-08.29.30:880][393]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.16-08.29.30:880][393]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.16-08.29.30:880][393]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.16-08.29.30:880][393]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.16-08.29.30:880][393]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.16-08.29.30:880][393]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.16-08.29.30:880][393]LogShaderCompilers: Display: ================================================
+[2022.09.16-08.29.30:905][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.09.16-08.30.47:186][799]Job is a success!
+[2022.09.16-08.30.47:843][800]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.158s
+[2022.09.16-08.30.47:843][800]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2022.09.16-08.30.47:843][800]LogVolumetricLightmapImport:      BrickData (all levels) 3.8Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.09.16-08.30.47:843][800]LogVolumetricLightmapImport:      Bricks at depth
+[2022.09.16-08.30.47:843][800]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2022.09.16-08.30.47:843][800]LogVolumetricLightmapImport:          1: 7.7% covering 9.4% of volume
+[2022.09.16-08.30.47:843][800]LogVolumetricLightmapImport:          2: 91.0% covering 1.7% of volume
+[2022.09.16-08.30.47:843][800]LogVolumetricLightmapImport:      Bricks in each level
+[2022.09.16-08.30.47:843][800]LogVolumetricLightmapImport:          Minimal_Default 			 620 bricks 	 100.0% (Persistent Level)
+[2022.09.16-08.30.49:098][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_1 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:116][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:158][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:192][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion1_2 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:219][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:262][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:300][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion1_3 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:324][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:385][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_1_3 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:435][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_4 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:467][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_4 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:520][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_4 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:565][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_5 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:600][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_5 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:665][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_5 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:723][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_6 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:760][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_6 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:822][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_6 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:868][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_7 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:901][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_7 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.49:957][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_7 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:008][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_8 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:040][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_8 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:105][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_8 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:202][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_9 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:236][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_9 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:288][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_9 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:369][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_10 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:403][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_10 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:455][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_10 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:498][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_11 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:528][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_11 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:582][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_11 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:626][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_12 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:656][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_12 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:711][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_12 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:757][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_13 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:791][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_13 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:842][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_13 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:886][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_14 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:909][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_14 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:947][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_14 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:979][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_15 (TFO_AutoDXT, 64X32 X1X1) (Required Memory Estimate: 0.05209 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:980][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_15 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.50:982][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_15 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.51:276][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:ShadowMapTexture2D_18 (G8, 1024X1024 X1X1) (Required Memory Estimate: 6.666665 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.51:300][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:ShadowMapTexture2D_19 (G8, 1024X1024 X1X1) (Required Memory Estimate: 6.666665 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.51:326][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:ShadowMapTexture2D_20 (G8, 1024X1024 X1X1) (Required Memory Estimate: 6.666665 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.51:354][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:ShadowMapTexture2D_21 (G8, 1024X1024 X1X1) (Required Memory Estimate: 6.666665 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.51:378][800]LogTexture: Display: Building textures: /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData:ShadowMapTexture2D_22 (G8, 512X64 X1X1) (Required Memory Estimate: 0.208354 MB), EncodeSpeed: Fast
+[2022.09.16-08.30.51:468][800]Lightmass on DESKTOP-36KODR4: 1:18 min total, 458 ms importing, 3.80 sec setup, 28.8 sec photons, 45.5 sec processing, 0 us extra exporting [1551/1551 mappings]. Threads: 5:19 min total, 3:34 min processing.
+[2022.09.16-08.30.51:500][800]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 1551 meshes in 32 LightmapResourceClusters (48.5 Meshes per cluster).
+[2022.09.16-08.30.51:572][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.09.16-08.30.51:588][800]LogStaticLightingSystem: Illumination: 1:25 min (2.39 sec encoding lightmaps, 397 ms encoding shadowmaps)
+[2022.09.16-08.30.51:588][800]LogStaticLightingSystem: Lightmap texture memory:  38.5 MB (38.5 MB streaming, 0.0 MB non-streaming), 30 textures
+[2022.09.16-08.30.51:589][800]LogStaticLightingSystem: Shadowmap texture memory: 5.6 MB (5.6 MB streaming, 0.0 MB non-streaming), 6 textures
+[2022.09.16-08.30.52:678][800]DumpUnbuiltLightIteractions
+[2022.09.16-08.30.52:678][800]Lights with unbuilt interactions: 0
+[2022.09.16-08.30.52:678][800]
+[2022.09.16-08.30.52:678][800]Primitives with unbuilt interactions: 0
+[2022.09.16-08.30.52:873][801]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.09.16-08.30.52:873][801]MapCheck: New page: Minimal_Default - 16 sept. 2022 à 12:30:52
+[2022.09.16-08.30.52:894][801]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 21,011ms to complete.
+[2022.09.16-08.31.25:571][ 39]LogSlate: Window 'Message Log' being destroyed
+[2022.09.16-08.31.25:578][ 39]LogSlate: Window 'Message Log' being destroyed
+[2022.09.16-08.32.40:990][226]Cmd: EDIT COPY
+[2022.09.16-08.32.42:721][428]Cmd: EDIT PASTE
+[2022.09.16-08.38.38:924][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.09.16-08.38.41:918][502]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.09.16-08.38.41:919][502]LogSavePackage: Moving 'D:/unreal Projects 5/FakeMirrorsEdge/Saved/Minimal_Default44397EC741A6313610BACD8AF302B3B9.tmp' to 'D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.09.16-08.38.41:939][502]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.09.16-08.38.41:939][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.09.16-08.38.44:301][502]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.09.16-08.38.44:302][502]LogSavePackage: Moving 'D:/unreal Projects 5/FakeMirrorsEdge/Saved/Minimal_Default_BuiltData605B33384408BD8112963881CE38957B.tmp' to 'D:/unreal Projects 5/FakeMirrorsEdge/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.09.16-08.38.44:304][502]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.09.16-08.38.44:376][502]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.16-08.38.44:376][502]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.09.16-08.38.44:376][502]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.09.16-08.39.14:706][901]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.16-08.39.25:462][901]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.09.16-08.39.25:478][901]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.09.16-08.39.25:486][901]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.09.16-08.39.25:503][902]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.09.16-08.39.28:940][275]LogContentBrowser: Attempting asset rename: NewBlueprint -> openDoor
+[2022.09.16-08.39.28:948][275]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.09.16-08.39.30:448][432]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/openDoor.openDoor
+[2022.09.16-08.39.30:449][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
