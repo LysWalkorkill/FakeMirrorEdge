@@ -2,13 +2,6 @@ Content/ModSci_Engineer
 Content/ModSci_EngiProps
 Content/ModSciInteriors
 Content/StarterContent
-Content/Characters
+Content/Characters/Mannequin_UE4
 
-Saved/Cooked/*
-Saved/StagedBuilds/Windows/*
-Saved/Temp/Win64/*
-Saved/Config/CrashReportClient/*
-Saved/Shaders/*
-Saved/Logs/*
-Saved/Config/CrashReportClient/*
-Saved/Config/WindowsEditor/*
+Saved/
